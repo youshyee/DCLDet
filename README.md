@@ -1,12 +1,13 @@
 # DCLDet --- Dynamic Curriculum Learning for Great Ape Detection in the Wild
 ### [Xinyu Yang](https://youshyee.xyz/), [Tilo Burghart](http://people.cs.bris.ac.uk/~burghard/), [Majid Mirmehid](http://people.cs.bris.ac.uk/~majid//)
 
-![DCLDET](./beamer/overview.pdf)
+![DCLDET](./beamer/overview.jpg)
 
 This repository is the official implementation of paper [Dynamic Curriculum Learning for Great Ape Detection in the Wild](<++>).
 
-## abstract
-    We propose a novel end-to-end curriculum learning approach that leverages large volumes of unlabelled great ape camera trap footage to improve supervised species detector construction in challenging real-world jungle environments. In contrast to previous semi-supervised methods, our approach gradually improves detection quality by steering training towards virtuous self-reinforcement. To achieve this, we propose integrating pseudo-labelling with dynamic curriculum learning policies. We show that such dynamics and controls can avoid learning collapse and gradually tie detector adjustments to higher model quality. We provide theoretical arguments and ablations, and confirm significant performance improvements against various state-of-the-art systems when evaluating on the Extended PanAfrican Dataset holding several thousand camera trap videos of great apes. We note that system performance is strongest for smaller labelled ratios, which are common in ecological applications. Our approach, although designed with wildlife data in mind, also shows competitive benchmarks for generic object detection in the MS-COCO dataset, indicating wider applicability of introduced concepts.
+<!-- ## abstract -->
+<!--  -->
+<!--     We propose a novel end-to-end curriculum learning approach that leverages large volumes of unlabelled great ape camera trap footage to improve supervised species detector construction in challenging real-world jungle environments. In contrast to previous semi-supervised methods, our approach gradually improves detection quality by steering training towards virtuous self-reinforcement. To achieve this, we propose integrating pseudo-labelling with dynamic curriculum learning policies. We show that such dynamics and controls can avoid learning collapse and gradually tie detector adjustments to higher model quality. We provide theoretical arguments and ablations, and confirm significant performance improvements against various state-of-the-art systems when evaluating on the Extended PanAfrican Dataset holding several thousand camera trap videos of great apes. We note that system performance is strongest for smaller labelled ratios, which are common in ecological applications. Our approach, although designed with wildlife data in mind, also shows competitive benchmarks for generic object detection in the MS-COCO dataset, indicating wider applicability of introduced concepts. -->
 
 ## Installation
 
@@ -123,7 +124,6 @@ Coming soon! Stay tuned
 | 10% PLD | PanAfrican | 45.96 | 78.10 | 47.67 | coming soon                     |
 | 20% PLD | PanAfrican | 59.01 | 89.23 | 66.95 | coming soon                     |
 | 50% PLD | PanAfrican | 63.39 | 92.96 | 70.00 | coming soon                     |
-|---------|------------|-------|-------|-------|---------------------------------|
 
 
 ## Citation
@@ -133,5 +133,6 @@ If you are considering using this codebase, please cite our work:
 ```
 
 ## Credits
-This repository builds on previous works codebase 1. [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR) and [DETReg](https://github.com/amirbar/DETReg). Please consider citing these works as well.
+This repository builds on previous works codebase 1. [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR) 2. [DETReg](https://github.com/amirbar/DETReg).
+Please consider citing these works as well.
 
