@@ -1,5 +1,5 @@
 # Dynamic Curriculum Learning for Great Ape Detection in the Wild
-### [Xinyu Yang](https://youshyee.xyz/), [Tilo Burghart](http://people.cs.bris.ac.uk/~burghard/), [Majid Mirmehdi](http://people.cs.bris.ac.uk/~majid//)
+### [Xinyu Yang](https://youshyee.xyz/), [Tilo Burghard](http://people.cs.bris.ac.uk/~burghard/), [Majid Mirmehdi](http://people.cs.bris.ac.uk/~majid//)
 
 ![DCLDET](./beamer/overview.jpg)
 
