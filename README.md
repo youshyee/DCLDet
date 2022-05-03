@@ -153,6 +153,14 @@ Coming soon! Stay tuned
 If you are considering using this codebase, please cite our work:
 
 ```bibtext
+@misc{yang2021dcldet,
+      title={Dynamic Curriculum Learning for Great Ape Detection in the Wild},
+      author={Xinyu Yang and Tilo Burghart and Majid Mirmehid},
+      year={2022},
+      eprint={2205.00275},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ## Credits
