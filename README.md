@@ -1,5 +1,5 @@
-# DCLDet --- Dynamic Curriculum Learning for Great Ape Detection in the Wild
-### [Xinyu Yang](https://youshyee.xyz/), [Tilo Burghart](http://people.cs.bris.ac.uk/~burghard/), [Majid Mirmehid](http://people.cs.bris.ac.uk/~majid//)
+# Dynamic Curriculum Learning for Great Ape Detection in the Wild
+### [Xinyu Yang](https://youshyee.xyz/), [Tilo Burghart](http://people.cs.bris.ac.uk/~burghard/), [Majid Mirmehdi](http://people.cs.bris.ac.uk/~majid//)
 
 ![DCLDET](./beamer/overview.jpg)
 
@@ -22,13 +22,13 @@ This repository is the official implementation of paper [Dynamic Curriculum Lear
 1. create a conda environment:
 
 ```bash
-conda create -n DCLDet python=3.7 pip
+conda create -n DCLNet python=3.7 pip
 ```
 
 2. activate the environment:
 
 ```bash
-conda activate DCLDet
+conda activate DCLNet
 ```
 
 3. Installation pytorch follow the official doc install at [here](https://pytorch.org/)
