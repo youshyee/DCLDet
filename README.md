@@ -139,14 +139,14 @@ Coming soon! Stay tuned
 
 ###  Models checkpoints
 
-| Setting | Dataset    | mAP   | mAP50 | map75 | checkpoint(Student and Teacher) |
-|---------|------------|-------|-------|-------|---------------------------------|
-| 1% PLD  | COCO       | 17.34 | 31.00 | 17.35 | xx                              |
-| 5% PLD  | COCO       | 29.75 | 46.68 | 31.77 | xx                              |
-| 10% PLD | COCO       | 34.45 | 51.93 | 37.14 | xx                              |
-| 10% PLD | PanAfrican | 45.96 | 78.10 | 47.67 | coming soon                     |
-| 20% PLD | PanAfrican | 59.01 | 89.23 | 66.95 | coming soon                     |
-| 50% PLD | PanAfrican | 63.39 | 92.96 | 70.00 | coming soon                     |
+| Setting | Dataset    | mAP   | mAP50 | map75 | checkpoint (Student and Teacher)                                                                                                   |
+|---------|------------|-------|-------|-------|------------------------------------------------------------------------------------------------------------------------------------|
+| 1% PLD  | COCO       | 17.34 | 31.00 | 17.35 | [ckpt](https://uob-my.sharepoint.com/:u:/g/personal/rn18510_bristol_ac_uk/EQ8Vzw7gDR9IiGh3jGvinuUBa8NSoy-Kl4CKaXXlaKErDQ?e=iYi9Be) |
+| 5% PLD  | COCO       | 29.75 | 46.68 | 31.77 | [ckpt](https://uob-my.sharepoint.com/:u:/g/personal/rn18510_bristol_ac_uk/EV6ZzJ0IiLZDkO5jWjquJuQB-TxQSbhmQyyz9s75JaRZqQ?e=CDpuZY) |
+| 10% PLD | COCO       | 34.45 | 51.93 | 37.14 | [ckpt](https://uob-my.sharepoint.com/:u:/g/personal/rn18510_bristol_ac_uk/EfB8LnA7No9Psh6nwRWIXSoBvU8VVk-tVtQIKL5P4x4PQw?e=ZG2Aep) |
+| 10% PLD | PanAfrican | 45.96 | 78.10 | 47.67 | coming soon                                                                                                                        |
+| 20% PLD | PanAfrican | 59.01 | 89.23 | 66.95 | coming soon                                                                                                                        |
+| 50% PLD | PanAfrican | 63.39 | 92.96 | 70.00 | coming soon                                                                                                                        |
 
 
 ## Citation
