@@ -3,7 +3,7 @@
 
 ![DCLDET](./beamer/overview.jpg)
 
-This repository is the official implementation of paper [Dynamic Curriculum Learning for Great Ape Detection in the Wild](<++>).
+This repository is the official implementation of paper [Dynamic Curriculum Learning for Great Ape Detection in the Wild](https://arxiv.org/abs/2205.00275).
 
 <!-- ## abstract -->
 <!--  -->
@@ -18,29 +18,52 @@ This repository is the official implementation of paper [Dynamic Curriculum Lear
 * Python>=3.7
 
 ### Install Dependencies
-    1. create a conda environment:
-    ```bash
-    conda create -n DCLDet python=3.7 pip
-    ```
-    2. activate the environment:
-    ```bash
-    conda activate DCLDet
-    ```
-    3. Installation pytorch follow the official doc install at [here](https://pytorch.org/))
-    ```bash
-    conda install pytorch==1.8.0 torchvision==0.9.0 cudatoolkit=10.2 -c pytorch
-    ```
-    4. Installation other packages
-    ```bash
-    pip install -r requirements.txt
-    ```
-    5. Install CUDA extension
-    ```bash
-    cd ./models/ops
-    sh ./make.sh
-    6. test your CUDA extension
-    python test.py
-    ```
+
+1. create a conda environment:
+
+```bash
+conda create -n DCLDet python=3.7 pip
+```
+
+2. activate the environment:
+
+```bash
+conda activate DCLDet
+```
+
+3. Installation pytorch follow the official doc install at [here](https://pytorch.org/)
+
+```bash
+conda install pytorch==1.8.0 torchvision==0.9.0 cudatoolkit=10.2 -c pytorch
+```
+
+4. Installation other packages
+
+```bash
+pip install -r requirements.txt
+```
+
+5. Install CUDA extension
+
+```bash
+cd ./models/ops
+sh ./make.sh
+```
+
+6. test your CUDA extension
+
+```
+python test.py
+```
+
+### Test Environments
+
+    CPU: AMD EPYC 7543 (128) @ 2.794GHz
+    GPU: NVIDIA GRID A100X
+    OS: CentOS Linux release 7.9.2009 (Core) x86_64
+    nvcc version: 11.2
+    GCC version: 7.5.0
+    python version: 3.7.11
 
 ## Usage
 
