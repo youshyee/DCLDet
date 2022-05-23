@@ -32,7 +32,7 @@ We propose a novel end-to-end curriculum learning approach that leverages large 
 
 ## PanAfrican2019 Dataset
 
-<img src="pan.jpg" alt="pan data" width="800"/>
+<img src="https://youshyee.xyz/Greatape-Detection/pan.jpg" alt="pan data" width="800"/>
 
 The annotations for the three datasets can be found [here](https://data.bris.ac.uk/data/dataset/1v9op9lc6zi5g25kkwa5smb3vq).
 
