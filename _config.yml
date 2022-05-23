@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: "Great Ape Detection in Challenging Jungle Camera Trap Footage via Attention-Based Spatial and Temporal Feature Blending"
+title: "Dynamic Curriculum Learning for Great Ape Detection in the Wild"
 favicon: favicon.ico
 github:
-      is_project_page: false
+      is_project_page: true
