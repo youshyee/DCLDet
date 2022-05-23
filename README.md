@@ -1,4 +1,4 @@
-# Dynamic Curriculum Learning for Great Ape Detection in the Wild
+# [Dynamic Curriculum Learning for Great Ape Detection in the Wild](https://youshyee.xyz/DCLDet)
 ### [Xinyu Yang](https://youshyee.xyz/), [Tilo Burghardt](http://people.cs.bris.ac.uk/~burghard/), [Majid Mirmehdi](http://people.cs.bris.ac.uk/~majid//)
 
 ![DCLDET](./beamer/overview.jpg)
