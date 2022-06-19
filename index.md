@@ -26,7 +26,7 @@ We propose a novel end-to-end curriculum learning approach that leverages large 
 
 
 [PDF](https://youshyee.xyz/pdfs/DCL.pdf)
-
+[Poster](./conference_poster.pdf)
 [ArXiv](https://arxiv.org/abs/2205.00275)
 
 
